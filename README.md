@@ -53,6 +53,8 @@ These are the tools and platforms I use to turn ideas into scalable products:
 
 ## 📫 Let’s Collaborate
 
+Contact : kranthikumar9.official@gmail.com
+Linkedin :  https://www.linkedin.com/in/bingi-kranthi/
 I’m always open to collaborating on innovative projects, discussing tech trends, or contributing to impactful open-source initiatives. Let’s build the future, one commit at a time.
 
 ---
