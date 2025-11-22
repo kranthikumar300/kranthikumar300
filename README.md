@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a MERN Stack Developer & React Native Specialist
+# 👋 Hi, I'm kranthi & MERN stack Developer
 
 ## 🚀 About Me
 
